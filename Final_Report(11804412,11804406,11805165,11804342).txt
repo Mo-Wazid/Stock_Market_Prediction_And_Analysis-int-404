@@ -1,0 +1,88 @@
+				Stock Market  Prediction And Analysis
+ 					Made by 
+
+				Vimal Kushwaha    : 11804404 	-module-1
+				Mohammad Wazid : 11804412	-module-2
+				Shoaib Shabir        : 11805165	-module-3
+				Hanuman Sihag     :11804342	-module-4
+
+				Submited to :  Ankita wadhwan
+				Subject code:  int-404
+				Section	     :  k18sb 
+				Subject 	      :Artificial Intelligence 
+
+
+
+Defination:
+
+Stock market prediction is the act of trying to determine the future value of a company stock
+or other financial instrument traded on an exchange. The successful prediction of a stock's
+future price could yield significant profit. 
+
+Description:
+
+in this project we have made stock market prediction and analysis application through this application 
+invester and user can easily predict the future  value of company stock  .They evaluate a company's past
+ performance as well as the credibility of its accounts. Many performance ratios are created that aid the 
+fundamental analyst with assessing the validity of a stock.
+
+We have four member in this group and divided this project into four diffrent module each 
+Module is performed by each member.
+
+The Modules are:-
+
+Module-1:    	  Importing Datasets And Collecting Data
+
+it's a very important initial step of our project this part is done by our team member and professional programmer 
+vimal kushwaha.
+in this module we have used pandas library for reading to csv data file . we have also use pandas datareader library
+for importing online data 
+
+Module-2:	 Resempling Data    
+
+Resampling  involves changing the frequency of your time series observations.
+two types of resampling..
+	1.down sampling :
+		where you decrease the frequency of the samples
+		example: changing days into months
+
+	2.up sampling:
+		where  you increase the frequency of the samples.
+		examples: minutes into seconds
+i have used there matplotlib library and matplotlib.dates library for for timestamp.
+this part is very usefull  for analysing data and evaluate past perfomance of company stock . 
+i have used  there four company data .
+companies are AMD, Intel Corporation, Nvidia , Qualcomm.
+it's essential part of our project this part is done by our senior programmer Mohammad Wazid.
+
+
+Module-3:	 Sneak Peek into Moving Averages
+
+	it's  basis of daily percentage of treding and time.  i also import seaborn library and matplotlib library
+	we have made diffrent plots this part is also shows which company data is more stable. user can see  
+	the easily company perfomance and he can invest his profitable company
+	
+	this part is done by our python coder and pcap certified Mr. shoaib shabir.
+
+
+Module-4: 	 Analysing Volatility of Stocks
+
+	it's important final part of our project in this part client can easily analysing volatility .
+	the volatility of stock is a measurement of the change in variance in the return of a stock over a specific
+ 	period of time 
+	
+	this part is done by our buisness manager Mr. hanuman sihag .
+	
+
+	 
+
+
+
+ 
+
+
+
+
+
+
+ 
